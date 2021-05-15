@@ -23,22 +23,14 @@
 <br/>
 <br/>
 
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />]
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]
-[<img height="30" src="https://img.shields.io/badge/instagram-red.svg?&style=for-the-badge&logo=instagram&logoColor=white" />]
-[<img height="30" src = "https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white">]
-
-
 -  I’m currently working as Data Engineer.
 -  I’m currently learning more about Python.
 -  How to reach me : Use any social media handles.
 -  I'm also working on mobile app development skills.
 
-[![Twitter: Shreehari K](https://img.shields.io/twitter/follow/shreeharikbhat?style=social)](https://twitter.com/shreeharikbhat)
-[![Linkedin: Shreehari K](https://img.shields.io/badge/-shreeharik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreeharik/)](https://www.linkedin.com/in/shreeharik/)
-[![GitHub Shreehari K](https://img.shields.io/github/followers/iambhat?label=follow&style=social)](https://github.com/iambhat)
   
-
+<br/>
+<br/>
 <a href="https://github.com/iambhat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhat&theme=light&hide_langs_below=2" />
 </a>
