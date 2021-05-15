@@ -27,6 +27,7 @@
 -  Secured 5⭐ at HackerRank in Java programming.
 -  I’m currently learning Python.
 -  Passionate for learning & exploring new Tech.
+-  Ask me anything about Tech, Happy to reply back.
 
 
 <br/>
