@@ -25,11 +25,11 @@
 
 
 
-- 🔭 I’m currently working at [Knoema IT](https://knoema.com/).
-- 🌱 I’m currently learning more about BlockChain.
-- 📫 How to reach me: [Twitter - Shreehari K](https://twitter.com/imthepk),
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+-  I’m currently working at [Knoema IT](https://knoema.com/).
+-  I’m currently learning more about BlockChain.
+-  How to reach me: [Twitter - Shreehari K](https://twitter.com/imthepk),
+-  Pronouns: He/His
+-  Fun fact: I spend almost 12 hours listening songs everyday.
 
 [![Twitter: Shreehari K](https://img.shields.io/twitter/follow/shreeharikbhat?style=social)](https://twitter.com/shreeharikbhat)
 [![Linkedin: Shreehari K](https://img.shields.io/badge/-shreeharik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreeharik/)](https://www.linkedin.com/in/shreeharik/)
@@ -45,7 +45,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <a href="https://github.com/iambhat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhat&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhat&theme=light&hide_langs_below=2" />
 </a>
 <a href="https://github.com/iambhat">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iambhat&show_icons=true&theme=light&line_height=27" alt="Shreehari's github stats"/>
