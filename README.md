@@ -23,13 +23,12 @@
 <br/>
 <br/>
 
--  I’m currently working as Data Engineer.
--  I’m currently learning more about Python.
--  How to reach me : Use any social media handles.
--  I'm also working on mobile app development skills.
+-  My primary coding language: Java
+-  Secured 5⭐ at HackerRank in Java programming.
+-  I’m currently learning Python.
+-  Passionate for learning & exploring new Tech.
 
-  
-<br/>
+
 <br/>
 <a href="https://github.com/iambhat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhat&theme=light&hide_langs_below=2" />
