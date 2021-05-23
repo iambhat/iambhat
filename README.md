@@ -39,7 +39,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iambhat&show_icons=true&theme=light&line_height=27" alt="Shreehari's github stats"/>
 </a>
 <!--
-<a href="https://github.com/iambhat/Banking-Project"> </br>
+<a href="https://github.com/iambhat/Banking-Project"> </br><br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iambhat&repo=Banking-Project&theme=light" />
 </a>
 <a href="https://github.com/iambhat/Electricity-Billing-Management-System">
