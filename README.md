@@ -32,16 +32,15 @@
 	</a>
 </p>
 
-<br/>
 
 ## Repos
 
 <p float="left">
-	<a href="https://github.com/iambhat/Banking-Project"> </br><br/>
-	  <img align="bottom"  src="https://github-readme-stats.vercel.app/api/pin/?username=iambhat&repo=Banking-Project&theme=light" />
+	<a href="https://github.com/iambhat/Banking-Project">
+	  <img align="canter"  src="https://github-readme-stats.vercel.app/api/pin/?username=iambhat&repo=Banking-Project&theme=light" />
 	</a>
 	<a href="https://github.com/iambhat/Electricity-Billing-Management-System">
-	 <img align="bottom"  src="https://github-readme-stats.vercel.app/api/pin/?username=iambhat&repo=Electricity-Billing-Management-System&theme=light" />
+	 <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=iambhat&repo=Electricity-Billing-Management-System&theme=light" />
 	</a>
 </p>
 
@@ -49,7 +48,7 @@
 
 <p float="left">
 	<a href="https://twitter.com/shreeharikbhat">
-		<img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+		<img align="left" alt="Shreehari's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 	</a>
 	<a href="https://linkedin.com/in/shreeharik">
 		<img align="left" alt="Shreehari's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -71,8 +70,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-
+<p float="center">
 ### Show some ❤️ by starring some of the repositories!
-
-</div>
+</p>
