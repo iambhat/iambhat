@@ -32,21 +32,26 @@
 
 
 <br/>
-## Github Profile Summary Card
+
+### Github Profile Summary Card
+
 <br/>
 <p align="center">
 	<a href="https://github.com/iambhat">
-		<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iambhat&theme=calm" alt="Shreehari's github stats"/>
+		<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iambhat&theme=calm" alt="Shreehari's github stats"/>
 	</a>
 </p>
-<br/><br/>
-## GitHub Stats
-<a href="https://github.com/iambhat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhat&theme=calm" />
-</a>
-<a href="https://github.com/iambhat">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iambhat&show_icons=true&theme=calm&line_height=27" alt="Shreehari's github stats"/>
-</a>
+<br/>
+<br/>
+
+### GitHub Stats
+
+<p align="center">
+	<a href="https://github.com/iambhat">
+		<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhat&theme=calm" />
+		<img width="48%" src="https://github-readme-stats.vercel.app/api?username=iambhat&show_icons=true&theme=calm&line_height=27" alt="Shreehari's github stats"/>
+	</a>
+</p>
 <!--
 <a href="https://github.com/iambhat/Banking-Project"> </br><br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iambhat&repo=Banking-Project&theme=light" />
