@@ -32,9 +32,15 @@
 
 
 <br/>
-<center><a href="https://github.com/iambhat">
- <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iambhat&theme=calm" alt="Shreehari's github stats"/>
-</a></center>
+## Github Profile Summary Card
+<br/>
+<p align="center">
+	<a href="https://github.com/iambhat">
+		<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iambhat&theme=calm" alt="Shreehari's github stats"/>
+	</a>
+</p>
+<br/><br/>
+## GitHub Stats
 <a href="https://github.com/iambhat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhat&theme=calm" />
 </a>
