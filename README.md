@@ -47,7 +47,8 @@
 <p float="left">
 	<a href="https://github.com/iambhat">
 		<img align="center" src="https://github-readme-stats.vercel.app/api?username=iambhat&show_icons=true&theme=calm&line_height=27" alt="Shreehari's github stats"/>
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhat&theme=calm" />
+		<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhat&theme=calm" /> -->
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhat&layout=compact&theme=calm" />
 	</a>
 </p>
 
