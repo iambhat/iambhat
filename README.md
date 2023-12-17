@@ -14,7 +14,7 @@
 ## Github Profile Summary Card
 
 <br/>
-<div align="center">
+<div align="left">
 	<a href="https://github.com/iambhat">
 		<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iambhat&theme=calm" alt="Shreehari's github stats"/>
 	</a>
@@ -24,15 +24,15 @@
 
 ## GitHub Stats
 
-<p float="left">
+<div float="left">
 	<a href="https://github.com/iambhat">
 		<img align="center" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=iambhat&theme=calm" />
 		<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhat&theme=calm" /> -->
 		<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhat&layout=compact&theme=calm" />
 	</a>
-</p>
+</div>
 
-<div align="center">
+<div align="left">
 	<a href="https://github.com/iambhat">
 		<img align="top" src="https://github-readme-stats.vercel.app/api?username=iambhat&show_icons=true&theme=calm&line_height=27"/>
 	</a>
