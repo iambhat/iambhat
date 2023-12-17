@@ -28,7 +28,7 @@
 	<a href="https://github.com/iambhat">
 		<img align="left" height="170", width="560" src="https://github-readme-streak-stats.herokuapp.com/?user=iambhat&theme=calm" />
 		<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhat&theme=calm" /> -->
-		<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhat&layout=compact&theme=calm" />
+		<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhat&layout=compact&theme=calm" />
 	</a>
 </div>
 
