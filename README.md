@@ -26,7 +26,7 @@
 
 <p float="left">
 	<a href="https://github.com/iambhat">
-		<img align="center" height="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=iambhat&theme=calm" />
+		<img align="center" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=iambhat&theme=calm" />
 		<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhat&theme=calm" /> -->
 		<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhat&layout=compact&theme=calm" />
 	</a>
