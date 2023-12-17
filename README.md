@@ -36,7 +36,7 @@
 
 <div align="left">
 	<a href="https://github.com/iambhat">
-		<img align="top" width="440" src="https://github-readme-stats.vercel.app/api?username=iambhat&show_icons=true&theme=calm&line_height=27"/>
+		<img align="top" width="430" src="https://github-readme-stats.vercel.app/api?username=iambhat&show_icons=true&theme=calm&line_height=27"/>
 	</a>
 </div>
 
