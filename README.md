@@ -26,7 +26,7 @@
 
 <div align="left">
 	<a href="https://github.com/iambhat">
-		<img align="left" height="170" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=iambhat&theme=calm" />
+		<img align="left" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=iambhat&theme=calm" />
 		<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhat&theme=calm" /> -->
 	</a>
 	<a href="https://github.com/iambhat">
@@ -36,7 +36,7 @@
 
 <div align="left">
 	<a href="https://github.com/iambhat">
-		<img align="top" width="450" src="https://github-readme-stats.vercel.app/api?username=iambhat&show_icons=true&theme=calm&line_height=27"/>
+		<img align="top" width="440" src="https://github-readme-stats.vercel.app/api?username=iambhat&show_icons=true&theme=calm&line_height=27"/>
 	</a>
 </div>
 
