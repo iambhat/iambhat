@@ -38,6 +38,9 @@
 <a href="https://github.com/iambhat">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iambhat&show_icons=true&theme=light&line_height=27" alt="Shreehari's github stats"/>
 </a>
+<a href="https://github.com/iambhat">
+ <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iambhat&theme=calm" alt="Shreehari's github stats"/>
+</a>
 <!--
 <a href="https://github.com/iambhat/Banking-Project"> </br><br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iambhat&repo=Banking-Project&theme=light" />
