@@ -45,7 +45,6 @@
 	</a>
 </p>
 
-<br/>
 
 ## Contact Me
 
@@ -73,6 +72,8 @@
 <br/>
 <hr/>
 
+<br/>
+
 <div float="center">
-## Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring some of the repositories!
 </div>
