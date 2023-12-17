@@ -20,6 +20,8 @@
 	</a>
 </p>
 
+<br/>
+
 ## GitHub Stats
 
 <p float="left">
@@ -29,6 +31,8 @@
 		<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhat&layout=compact&theme=calm" />
 	</a>
 </p>
+
+<br/>
 
 ## Repos
 
