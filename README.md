@@ -36,7 +36,7 @@
 ## Github Profile Summary Card
 
 <br/>
-<p float="left">
+<p float="center">
 	<a href="https://github.com/iambhat">
 		<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iambhat&theme=calm" alt="Shreehari's github stats"/>
 	</a>
