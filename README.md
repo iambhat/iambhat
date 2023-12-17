@@ -26,14 +26,14 @@
 
 <p float="left">
 	<a href="https://github.com/iambhat">
-		<img align="top" src="https://github-readme-stats.vercel.app/api?username=iambhat&show_icons=true&theme=calm&line_height=27" alt="Shreehari's github stats"/>
+		<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iambhat&theme=calm" />
 		<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhat&theme=calm" /> -->
 		<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhat&layout=compact&theme=calm" />
-		<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iambhat&theme=calm" />
+		<img align="top" src="https://github-readme-stats.vercel.app/api?username=iambhat&show_icons=true&theme=calm&line_height=27" alt="Shreehari's github stats"/>
 	</a>
 </p>
 
-<br/>
+<br/><br/>
 
 ## Repos
 
