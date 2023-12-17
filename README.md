@@ -32,15 +32,16 @@
 	</a>
 </p>
 
+<br/>
 
 ## Repos
 
 <p float="left">
 	<a href="https://github.com/iambhat/Banking-Project">
-	  <img align="canter"  src="https://github-readme-stats.vercel.app/api/pin/?username=iambhat&repo=Banking-Project&theme=light" />
+	  <img align="bottom"  src="https://github-readme-stats.vercel.app/api/pin/?username=iambhat&repo=Banking-Project&theme=light" />
 	</a>
 	<a href="https://github.com/iambhat/Electricity-Billing-Management-System">
-	 <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=iambhat&repo=Electricity-Billing-Management-System&theme=light" />
+	 <img align="bottom"  src="https://github-readme-stats.vercel.app/api/pin/?username=iambhat&repo=Electricity-Billing-Management-System&theme=light" />
 	</a>
 </p>
 
@@ -71,5 +72,5 @@
 <hr/>
 
 <p float="center">
-### Show some ❤️ by starring some of the repositories!
+## Show some ❤️ by starring some of the repositories!
 </p>
