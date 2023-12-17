@@ -31,10 +31,9 @@
 		<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhat&layout=compact&theme=calm" />
 	</a>
 </p>
-<br/>
-<p float="center">
+<div align="center">
 	<a href="https://github.com/iambhat"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iambhat&theme=calm" /> </a>
-</p>
+</div>
 
 <br/>
 
